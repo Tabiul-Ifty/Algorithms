@@ -1,2 +1,3 @@
 # Algorithms
-Some important Codes will be here
+
+Some important Pyhton Codes will be here
